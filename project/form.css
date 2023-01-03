@@ -1,0 +1,21 @@
+body{
+  background-image: url('./download.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align-last:right;
+  padding:50px 40px auto;
+
+}
+
+.h1{
+  text-decoration:underline;
+  font-size: xx-large;
+}
+
+.container{
+  padding:100px 70px 10px ;
+  text-justify: auto;
+  text-align: right;
+  font-size: large;
+
+}
